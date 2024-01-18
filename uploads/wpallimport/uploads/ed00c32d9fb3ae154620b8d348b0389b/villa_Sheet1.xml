@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<title><![CDATA[26 Mid Street Portland, OR 38540]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury condo]]></type>
+		<price><![CDATA[500,000]]></price>
+		<bedrooms><![CDATA[3]]></bedrooms>
+		<bathrooms><![CDATA[2]]></bathrooms>
+		<area><![CDATA[300]]></area>
+		<parking><![CDATA[2]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[26 Old Street Miami, OR 12870]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[5,500,000]]></price>
+		<bedrooms><![CDATA[8]]></bedrooms>
+		<bathrooms><![CDATA[8]]></bathrooms>
+		<area><![CDATA[550]]></area>
+		<parking><![CDATA[8]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[34 Beach Street Miami, OR 42680]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[3,000,000]]></price>
+		<bedrooms><![CDATA[6]]></bedrooms>
+		<bathrooms><![CDATA[4]]></bathrooms>
+		<area><![CDATA[400]]></area>
+		<parking><![CDATA[5]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[22 Mid Street Los Angeles, CA 3854]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury condo]]></type>
+		<price><![CDATA[500,000]]></price>
+		<bedrooms><![CDATA[3]]></bedrooms>
+		<bathrooms><![CDATA[2]]></bathrooms>
+		<area><![CDATA[300]]></area>
+		<parking><![CDATA[2]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[23 Old Street Palo Alto, CA 12870]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[5,500,000]]></price>
+		<bedrooms><![CDATA[8]]></bedrooms>
+		<bathrooms><![CDATA[8]]></bathrooms>
+		<area><![CDATA[550]]></area>
+		<parking><![CDATA[8]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[34 Beach Street Palo Alto, CA  42680]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[3,000,000]]></price>
+		<bedrooms><![CDATA[6]]></bedrooms>
+		<bathrooms><![CDATA[4]]></bathrooms>
+		<area><![CDATA[400]]></area>
+		<parking><![CDATA[5]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[22 Mid Street Los Angeles, FL 3854]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury condo]]></type>
+		<price><![CDATA[500,000]]></price>
+		<bedrooms><![CDATA[3]]></bedrooms>
+		<bathrooms><![CDATA[2]]></bathrooms>
+		<area><![CDATA[300]]></area>
+		<parking><![CDATA[2]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[23 Old Street Palo Alto, FL 12870]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[5,500,000]]></price>
+		<bedrooms><![CDATA[8]]></bedrooms>
+		<bathrooms><![CDATA[8]]></bathrooms>
+		<area><![CDATA[550]]></area>
+		<parking><![CDATA[8]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[34 Beach Street Palo Alto, FL   42680]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[3,000,000]]></price>
+		<bedrooms><![CDATA[6]]></bedrooms>
+		<bathrooms><![CDATA[4]]></bathrooms>
+		<area><![CDATA[400]]></area>
+		<parking><![CDATA[5]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[34 Beach Street  Los Angeles, TX 42680]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[3,000,000]]></price>
+		<bedrooms><![CDATA[6]]></bedrooms>
+		<bathrooms><![CDATA[4]]></bathrooms>
+		<area><![CDATA[350]]></area>
+		<parking><![CDATA[5]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[12 Mid Street Palmdale, TX  3854]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury condo]]></type>
+		<price><![CDATA[500,000]]></price>
+		<bedrooms><![CDATA[3]]></bedrooms>
+		<bathrooms><![CDATA[2]]></bathrooms>
+		<area><![CDATA[300]]></area>
+		<parking><![CDATA[2]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[4 Old Street Santa Monica, TX  12870]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[5,500,000]]></price>
+		<bedrooms><![CDATA[4]]></bedrooms>
+		<bathrooms><![CDATA[4]]></bathrooms>
+		<area><![CDATA[550]]></area>
+		<parking><![CDATA[3]]></parking>
+	</node>
+	<node>
+		<title><![CDATA[10 Beach Street Palo Alto, TX    42680]]></title>
+		<description><![CDATA[]]></description>
+		<type><![CDATA[luxury villa]]></type>
+		<price><![CDATA[3,000,000]]></price>
+		<bedrooms><![CDATA[6]]></bedrooms>
+		<bathrooms><![CDATA[4]]></bathrooms>
+		<area><![CDATA[600]]></area>
+		<parking><![CDATA[3]]></parking>
+	</node>
+</data>
